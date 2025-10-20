@@ -29,3 +29,14 @@ def test_register_user(mocker):
     assert result == ('IBRAHIM SULAIMON')
     mock_api_client.get_user_data.assert_called_once_with('ibrahim sulaimon','ibrahimsulaimon@gmail.com', 0)
     mock_db_client.save_user.assert_called_once_with('ibrahim sulaimon','ibrahimsulaimon@gmail.com', 0)
+
+
+#live integration test (with real APIClient and DatabaseClient)
+def test_register_user_integration():
+    """Integration test for UserServices with real APIClient and DatabaseClient"""
+    api_client= APIClient()
+    db_client= DatabaseClient('test_users.db')
+    servers= UserServices(api_client, db_client)
+
+    result= servers.register_user('sulaimon majeed', 'sulaimonmajeed@example.com', 25)
+    assert result == 'SULAIMON MAJEED'
