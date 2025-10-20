@@ -61,10 +61,6 @@ class UserServices:
         self.db_client= db_client
 
     def register_user(self, username, email, age):
-        """Testing for age lesser than 0 inputed"""
-        if age <= 0:
-            raise ValueError("Age cannot be negative")
-        
         """Fetch from the API, save to DB and return the username as a uppercase"""
         api_get= self.api_client.get_user_data(username, email, age)
         user_get= self.db_client.save_user(api_get['username'], api_get['email'], api_get['age'])
