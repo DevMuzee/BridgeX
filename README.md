@@ -196,6 +196,7 @@ This project is released under the **MIT License** — free for learning, modifi
 
 ---
 
+<<<<<<< HEAD
 ## 🏁 Current Project Status
 ✅ Mock/Unit Test Stage — *Completed*  
 ✅ Local Integration Test — *Completed*  
@@ -203,4 +204,3 @@ This project is released under the **MIT License** — free for learning, modifi
 🚀 Final Deployment — *Upcoming*  
 
 ---
-
