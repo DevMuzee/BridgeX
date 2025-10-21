@@ -185,9 +185,9 @@ pytest -v -k "integration"
 
 ## 🏁 Author
 
-- ** Developed by:** Adewale Abdulmuiz Akorede
-- M[adewaleabdulmuiz75@gmail.com](mailto:adewaleabdulmuiz75@gmail.com)  )
-- ~[LinkedIn – Abdulmuiz (Akorede) Adewale](https://www.linkedin.com/in/abdulmuiz-akorede)
+** Developed by:** Adewale Abdulmuiz Akorede
+- [adewaleabdulmuiz75@gmail.com](mailto:adewaleabdulmuiz75@gmail.com)  )
+- [LinkedIn – Abdulmuiz (Akorede) Adewale](https://www.linkedin.com/in/abdulmuiz-akorede)
 
 ---
 
