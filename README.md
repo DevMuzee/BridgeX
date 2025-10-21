@@ -185,9 +185,9 @@ pytest -v -k "integration"
 
 ## 🏁 Author
 
-** Developed by:** Adewale Abdulmuiz Akorede
- M[adewaleabdulmuiz75@gmail.com](mailto:adewaleabdulmuiz75@gmail.com)  )
- ~[LinkedIn – Abdulmuiz (Akorede) Adewale](https://www.linkedin.com/in/abdulmuiz-akorede)
+- ** Developed by:** Adewale Abdulmuiz Akorede
+- M[adewaleabdulmuiz75@gmail.com](mailto:adewaleabdulmuiz75@gmail.com)  )
+- ~[LinkedIn – Abdulmuiz (Akorede) Adewale](https://www.linkedin.com/in/abdulmuiz-akorede)
 
 ---
 
@@ -196,7 +196,6 @@ This project is released under the **MIT License** — free for learning, modifi
 
 ---
 
-<<<<<<< HEAD
 ## 🏁 Current Project Status
 ✅ Mock/Unit Test Stage — *Completed*  
 ✅ Local Integration Test — *Completed*  
@@ -204,3 +203,4 @@ This project is released under the **MIT License** — free for learning, modifi
 🚀 Final Deployment — *Upcoming*  
 
 ---
+
