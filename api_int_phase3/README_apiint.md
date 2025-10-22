@@ -90,4 +90,4 @@ This project is part of the **BridgeX Data Integration Series**, demonstrating r
    - Database connection details (username, password, host, port, database name)
 2. Fetches API data and normalizes it into a Pandas DataFrame.
 3. Writes the structured data into a specified database table.
-
+---
