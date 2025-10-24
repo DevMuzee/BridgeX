@@ -1,5 +1,5 @@
 
-# BRIX — Bridge Integration eXecutor (BridgeX Phase 6)
+# BRIX — BRidge Integration eXecutor (BridgeX Phase 6)
 
 **Short name:** BRIX  
 **Project:** BridgeX / BRIX — Phase 6 (Streamlit UI)  
