@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+sqlalchemy
+python-dotenv
+sqlite3-binary
+openpyxl
